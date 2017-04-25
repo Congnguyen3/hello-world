@@ -6,5 +6,6 @@ package cis233J.helloworld;
 public class helloworld {
     public static void main(String[] arg) {
         System.out.println("Hello, World!");
+        System.out.println("My name is Cong Nguyen.");
     }
 }

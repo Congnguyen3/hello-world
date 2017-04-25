@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="931715cd-6444-4fef-8770-d36ddc725edd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cis233J/helloworld/helloworld.java" afterPath="$PROJECT_DIR$/src/cis233J/helloworld/helloworld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,12 +18,9 @@
       <file leaf-file-name="helloworld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cis233J/helloworld/helloworld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="320">
+              <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -392,10 +387,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -403,10 +395,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -414,10 +403,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -425,10 +411,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -442,12 +425,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cis233J/helloworld/helloworld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="320">
+          <caret line="8" column="54" lean-forward="false" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
